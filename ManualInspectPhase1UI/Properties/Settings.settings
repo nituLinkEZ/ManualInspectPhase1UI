@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MechBenchPhase1UI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="IP_ADDRESS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.0.24</Value>
+    </Setting>
+    <Setting Name="PORT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">9876</Value>
+    </Setting>
+    <Setting Name="HttpServerUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://*:8090/</Value>
+    </Setting>
+    <Setting Name="HttpRequestReceived" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="TEST_PAGE" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="MINIMUM_VALUE" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="MAXIMUM_VALUE" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UNIT_VALUE" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DESCRIPTION" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TYPICAL_VALUE" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="TEST_RESULT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">FAIL</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
